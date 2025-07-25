@@ -1,0 +1,10 @@
+C:\Users\Data comp\Desktop\Projects .NET\StoreAppCSharp\StoreAppCSharp\bin\Debug\StoreAppCSharp.exe.config
+C:\Users\Data comp\Desktop\Projects .NET\StoreAppCSharp\StoreAppCSharp\bin\Debug\StoreAppCSharp.exe
+C:\Users\Data comp\Desktop\Projects .NET\StoreAppCSharp\StoreAppCSharp\bin\Debug\StoreAppCSharp.pdb
+C:\Users\Data comp\Desktop\Projects .NET\StoreAppCSharp\StoreAppCSharp\obj\Debug\StoreAppCSharp.csproj.AssemblyReference.cache
+C:\Users\Data comp\Desktop\Projects .NET\StoreAppCSharp\StoreAppCSharp\obj\Debug\StoreAppCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Data comp\Desktop\Projects .NET\StoreAppCSharp\StoreAppCSharp\obj\Debug\StoreAppCSharp.exe
+C:\Users\Data comp\Desktop\Projects .NET\StoreAppCSharp\StoreAppCSharp\obj\Debug\StoreAppCSharp.pdb
+C:\Users\Data comp\Desktop\Projects .NET\StoreAppCSharp\StoreAppCSharp\bin\Debug\StoreBl.dll
+C:\Users\Data comp\Desktop\Projects .NET\StoreAppCSharp\StoreAppCSharp\bin\Debug\StoreBl.pdb
+C:\Users\Data comp\Desktop\Projects .NET\StoreAppCSharp\StoreAppCSharp\obj\Debug\StoreApp.BBC6BA86.Up2Date

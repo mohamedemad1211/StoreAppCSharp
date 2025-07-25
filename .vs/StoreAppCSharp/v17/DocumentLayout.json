@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Data comp\\Desktop\\Projects .NET\\StoreAppCSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9ECF25-5581-49D1-A873-ABA00F3548A8}|StoreBl\\StoreBl.csproj|c:\\users\\data comp\\desktop\\projects .net\\storeappcsharp\\storebl\\models\\storemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9ECF25-5581-49D1-A873-ABA00F3548A8}|StoreBl\\StoreBl.csproj|solutionrelative:storebl\\models\\storemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9ECF25-5581-49D1-A873-ABA00F3548A8}|StoreBl\\StoreBl.csproj|C:\\Users\\Data comp\\Desktop\\Projects .NET\\StoreAppCSharp\\storebl\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9ECF25-5581-49D1-A873-ABA00F3548A8}|StoreBl\\StoreBl.csproj|solutionrelative:storebl\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9ECF25-5581-49D1-A873-ABA00F3548A8}|StoreBl\\StoreBl.csproj|C:\\Users\\Data comp\\Desktop\\Projects .NET\\StoreAppCSharp\\storebl\\models\\itemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9ECF25-5581-49D1-A873-ABA00F3548A8}|StoreBl\\StoreBl.csproj|solutionrelative:storebl\\models\\itemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9ECF25-5581-49D1-A873-ABA00F3548A8}|StoreBl\\StoreBl.csproj|C:\\Users\\Data comp\\Desktop\\Projects .NET\\StoreAppCSharp\\storebl\\dataaccessl\\sqldataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9ECF25-5581-49D1-A873-ABA00F3548A8}|StoreBl\\StoreBl.csproj|solutionrelative:storebl\\dataaccessl\\sqldataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9ECF25-5581-49D1-A873-ABA00F3548A8}|StoreBl\\StoreBl.csproj|C:\\Users\\Data comp\\Desktop\\Projects .NET\\StoreAppCSharp\\storebl\\dataaccessl\\idataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9ECF25-5581-49D1-A873-ABA00F3548A8}|StoreBl\\StoreBl.csproj|solutionrelative:storebl\\dataaccessl\\idataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9ECF25-5581-49D1-A873-ABA00F3548A8}|StoreBl\\StoreBl.csproj|C:\\Users\\Data comp\\Desktop\\Projects .NET\\StoreAppCSharp\\storebl\\dataaccessl\\filedatalayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9ECF25-5581-49D1-A873-ABA00F3548A8}|StoreBl\\StoreBl.csproj|solutionrelative:storebl\\dataaccessl\\filedatalayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9ECF25-5581-49D1-A873-ABA00F3548A8}|StoreBl\\StoreBl.csproj|C:\\Users\\Data comp\\Desktop\\Projects .NET\\StoreAppCSharp\\storebl\\dataaccessl\\dataaccesshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9ECF25-5581-49D1-A873-ABA00F3548A8}|StoreBl\\StoreBl.csproj|solutionrelative:storebl\\dataaccessl\\dataaccesshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9ECF25-5581-49D1-A873-ABA00F3548A8}|StoreBl\\StoreBl.csproj|C:\\Users\\Data comp\\Desktop\\Projects .NET\\StoreAppCSharp\\storebl\\bl\\ibusinesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9ECF25-5581-49D1-A873-ABA00F3548A8}|StoreBl\\StoreBl.csproj|solutionrelative:storebl\\bl\\ibusinesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9ECF25-5581-49D1-A873-ABA00F3548A8}|StoreBl\\StoreBl.csproj|C:\\Users\\Data comp\\Desktop\\Projects .NET\\StoreAppCSharp\\storebl\\bl\\clsstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9ECF25-5581-49D1-A873-ABA00F3548A8}|StoreBl\\StoreBl.csproj|solutionrelative:storebl\\bl\\clsstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9ECF25-5581-49D1-A873-ABA00F3548A8}|StoreBl\\StoreBl.csproj|C:\\Users\\Data comp\\Desktop\\Projects .NET\\StoreAppCSharp\\storebl\\bl\\clsorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9ECF25-5581-49D1-A873-ABA00F3548A8}|StoreBl\\StoreBl.csproj|solutionrelative:storebl\\bl\\clsorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9ECF25-5581-49D1-A873-ABA00F3548A8}|StoreBl\\StoreBl.csproj|C:\\Users\\Data comp\\Desktop\\Projects .NET\\StoreAppCSharp\\storebl\\bl\\clsitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9ECF25-5581-49D1-A873-ABA00F3548A8}|StoreBl\\StoreBl.csproj|solutionrelative:storebl\\bl\\clsitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35919B5-8FC5-4051-914E-15CC7E45E7F1}|StoreAppCSharp\\StoreAppCSharp.csproj|C:\\Users\\Data comp\\Desktop\\Projects .NET\\StoreAppCSharp\\storeappcsharp\\uihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35919B5-8FC5-4051-914E-15CC7E45E7F1}|StoreAppCSharp\\StoreAppCSharp.csproj|solutionrelative:storeappcsharp\\uihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35919B5-8FC5-4051-914E-15CC7E45E7F1}|StoreAppCSharp\\StoreAppCSharp.csproj|C:\\Users\\Data comp\\Desktop\\Projects .NET\\StoreAppCSharp\\storeappcsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35919B5-8FC5-4051-914E-15CC7E45E7F1}|StoreAppCSharp\\StoreAppCSharp.csproj|solutionrelative:storeappcsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9ECF25-5581-49D1-A873-ABA00F3548A8}|StoreBl\\StoreBl.csproj|C:\\Users\\Data comp\\Desktop\\Projects .NET\\StoreAppCSharp\\storebl\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9ECF25-5581-49D1-A873-ABA00F3548A8}|StoreBl\\StoreBl.csproj|solutionrelative:storebl\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ItemModel.cs",
+              "DocumentMoniker": "C:\\Users\\Data comp\\Desktop\\Projects .NET\\StoreAppCSharp\\StoreBl\\Models\\ItemModel.cs",
+              "RelativeDocumentMoniker": "StoreBl\\Models\\ItemModel.cs",
+              "ToolTip": "C:\\Users\\Data comp\\Desktop\\Projects .NET\\StoreAppCSharp\\StoreBl\\Models\\ItemModel.cs",
+              "RelativeToolTip": "StoreBl\\Models\\ItemModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T05:53:57.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderModel.cs",
+              "DocumentMoniker": "C:\\Users\\Data comp\\Desktop\\Projects .NET\\StoreAppCSharp\\StoreBl\\Models\\OrderModel.cs",
+              "RelativeDocumentMoniker": "StoreBl\\Models\\OrderModel.cs",
+              "ToolTip": "C:\\Users\\Data comp\\Desktop\\Projects .NET\\StoreAppCSharp\\StoreBl\\Models\\OrderModel.cs",
+              "RelativeToolTip": "StoreBl\\Models\\OrderModel.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvxcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T06:57:47.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StoreModel.cs",
+              "DocumentMoniker": "C:\\Users\\Data comp\\Desktop\\Projects .NET\\StoreAppCSharp\\StoreBl\\Models\\StoreModel.cs",
+              "RelativeDocumentMoniker": "StoreBl\\Models\\StoreModel.cs",
+              "ToolTip": "C:\\Users\\Data comp\\Desktop\\Projects .NET\\StoreAppCSharp\\StoreBl\\Models\\StoreModel.cs",
+              "RelativeToolTip": "StoreBl\\Models\\StoreModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T02:55:12.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SqlDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\Data comp\\Desktop\\Projects .NET\\StoreAppCSharp\\StoreBl\\DataAccessL\\SqlDataAccess.cs",
+              "RelativeDocumentMoniker": "StoreBl\\DataAccessL\\SqlDataAccess.cs",
+              "ToolTip": "C:\\Users\\Data comp\\Desktop\\Projects .NET\\StoreAppCSharp\\StoreBl\\DataAccessL\\SqlDataAccess.cs",
+              "RelativeToolTip": "StoreBl\\DataAccessL\\SqlDataAccess.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA0wB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T07:54:17.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\Data comp\\Desktop\\Projects .NET\\StoreAppCSharp\\StoreBl\\DataAccessL\\IDataAccess.cs",
+              "RelativeDocumentMoniker": "StoreBl\\DataAccessL\\IDataAccess.cs",
+              "ToolTip": "C:\\Users\\Data comp\\Desktop\\Projects .NET\\StoreAppCSharp\\StoreBl\\DataAccessL\\IDataAccess.cs",
+              "RelativeToolTip": "StoreBl\\DataAccessL\\IDataAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T07:55:19.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileDataLayer.cs",
+              "DocumentMoniker": "C:\\Users\\Data comp\\Desktop\\Projects .NET\\StoreAppCSharp\\StoreBl\\DataAccessL\\FileDataLayer.cs",
+              "RelativeDocumentMoniker": "StoreBl\\DataAccessL\\FileDataLayer.cs",
+              "ToolTip": "C:\\Users\\Data comp\\Desktop\\Projects .NET\\StoreAppCSharp\\StoreBl\\DataAccessL\\FileDataLayer.cs",
+              "RelativeToolTip": "StoreBl\\DataAccessL\\FileDataLayer.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAA8wD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T03:56:19.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataAccessHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Data comp\\Desktop\\Projects .NET\\StoreAppCSharp\\StoreBl\\DataAccessL\\DataAccessHelper.cs",
+              "RelativeDocumentMoniker": "StoreBl\\DataAccessL\\DataAccessHelper.cs",
+              "ToolTip": "C:\\Users\\Data comp\\Desktop\\Projects .NET\\StoreAppCSharp\\StoreBl\\DataAccessL\\DataAccessHelper.cs",
+              "RelativeToolTip": "StoreBl\\DataAccessL\\DataAccessHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T08:00:15.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IBusinessLayer.cs",
+              "DocumentMoniker": "C:\\Users\\Data comp\\Desktop\\Projects .NET\\StoreAppCSharp\\StoreBl\\Bl\\IBusinessLayer.cs",
+              "RelativeDocumentMoniker": "StoreBl\\Bl\\IBusinessLayer.cs",
+              "ToolTip": "C:\\Users\\Data comp\\Desktop\\Projects .NET\\StoreAppCSharp\\StoreBl\\Bl\\IBusinessLayer.cs",
+              "RelativeToolTip": "StoreBl\\Bl\\IBusinessLayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T06:03:39.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClsStore.cs",
+              "DocumentMoniker": "C:\\Users\\Data comp\\Desktop\\Projects .NET\\StoreAppCSharp\\StoreBl\\Bl\\ClsStore.cs",
+              "RelativeDocumentMoniker": "StoreBl\\Bl\\ClsStore.cs",
+              "ToolTip": "C:\\Users\\Data comp\\Desktop\\Projects .NET\\StoreAppCSharp\\StoreBl\\Bl\\ClsStore.cs",
+              "RelativeToolTip": "StoreBl\\Bl\\ClsStore.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAmwFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T02:58:00.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClsOrders.cs",
+              "DocumentMoniker": "C:\\Users\\Data comp\\Desktop\\Projects .NET\\StoreAppCSharp\\StoreBl\\Bl\\ClsOrders.cs",
+              "RelativeDocumentMoniker": "StoreBl\\Bl\\ClsOrders.cs",
+              "ToolTip": "C:\\Users\\Data comp\\Desktop\\Projects .NET\\StoreAppCSharp\\StoreBl\\Bl\\ClsOrders.cs",
+              "RelativeToolTip": "StoreBl\\Bl\\ClsOrders.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAmwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T07:00:06.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClsItems.cs",
+              "DocumentMoniker": "C:\\Users\\Data comp\\Desktop\\Projects .NET\\StoreAppCSharp\\StoreBl\\Bl\\ClsItems.cs",
+              "RelativeDocumentMoniker": "StoreBl\\Bl\\ClsItems.cs",
+              "ToolTip": "C:\\Users\\Data comp\\Desktop\\Projects .NET\\StoreAppCSharp\\StoreBl\\Bl\\ClsItems.cs",
+              "RelativeToolTip": "StoreBl\\Bl\\ClsItems.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAmwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T06:01:32.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UiHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Data comp\\Desktop\\Projects .NET\\StoreAppCSharp\\StoreAppCSharp\\UiHelper.cs",
+              "RelativeDocumentMoniker": "StoreAppCSharp\\UiHelper.cs",
+              "ToolTip": "C:\\Users\\Data comp\\Desktop\\Projects .NET\\StoreAppCSharp\\StoreAppCSharp\\UiHelper.cs",
+              "RelativeToolTip": "StoreAppCSharp\\UiHelper.cs",
+              "ViewState": "AgIAAOUAAAAAAAAAAAAqwAABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T09:39:55.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Data comp\\Desktop\\Projects .NET\\StoreAppCSharp\\StoreAppCSharp\\Program.cs",
+              "RelativeDocumentMoniker": "StoreAppCSharp\\Program.cs",
+              "ToolTip": "C:\\Users\\Data comp\\Desktop\\Projects .NET\\StoreAppCSharp\\StoreAppCSharp\\Program.cs",
+              "RelativeToolTip": "StoreAppCSharp\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAqwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T02:54:34.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Data comp\\Desktop\\Projects .NET\\StoreAppCSharp\\StoreBl\\Class1.cs",
+              "RelativeDocumentMoniker": "StoreBl\\Class1.cs",
+              "ToolTip": "C:\\Users\\Data comp\\Desktop\\Projects .NET\\StoreAppCSharp\\StoreBl\\Class1.cs",
+              "RelativeToolTip": "StoreBl\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T02:51:47.837Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

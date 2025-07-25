@@ -1,0 +1,6 @@
+C:\Users\Data comp\Desktop\Projects .NET\StoreAppCSharp\StoreBl\obj\Debug\StoreBl.csproj.AssemblyReference.cache
+C:\Users\Data comp\Desktop\Projects .NET\StoreAppCSharp\StoreBl\obj\Debug\StoreBl.csproj.CoreCompileInputs.cache
+C:\Users\Data comp\Desktop\Projects .NET\StoreAppCSharp\StoreBl\bin\Debug\StoreBl.dll
+C:\Users\Data comp\Desktop\Projects .NET\StoreAppCSharp\StoreBl\bin\Debug\StoreBl.pdb
+C:\Users\Data comp\Desktop\Projects .NET\StoreAppCSharp\StoreBl\obj\Debug\StoreBl.dll
+C:\Users\Data comp\Desktop\Projects .NET\StoreAppCSharp\StoreBl\obj\Debug\StoreBl.pdb
