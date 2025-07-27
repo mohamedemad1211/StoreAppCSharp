@@ -99,14 +99,6 @@ Through this project, I reinforced my understanding of:
 - Layered architecture and separation of concerns
 - Input validation and error handling basics
 
-## 🚀 Next Steps
-
-This project serves as a solid foundation for learning:
-- ASP.NET MVC Framework
-- Database integration (SQL Server, Entity Framework)
-- Advanced C# concepts
-- Unit testing and test-driven development
-- Web application development
 
 ## 📝 Author
 
