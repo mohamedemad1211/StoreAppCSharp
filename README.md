@@ -34,16 +34,6 @@ The project follows a **3-layer architecture**:
    - Handles data persistence to text files
    - Abstracts file operations through interfaces
 
-## 📁 Project Structure
-
-StoreAppCSharp/
-├── StoreAppCSharp/ # UI Layer (Console Application)
-├── StoreBl/ # Business Logic Layer
-│ ├── Bl/ # Business logic classes
-│ ├── DataAccessL/ # Data access classes
-│ └── Models/ # Data models
-└── [Data Files] # Text files for data storage
-
 
 ## 🚀 Features
 
